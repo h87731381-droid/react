@@ -1,0 +1,21 @@
+@import url('./common.css');
+
+body {
+    background-color: antiquewhite;
+}
+
+header{
+    text-align: center;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    a{
+        color: black;
+        padding: 0 20px;
+
+    }
+}
+
+
